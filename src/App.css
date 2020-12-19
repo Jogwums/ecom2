@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+nav{
+  margin: 0;
+  padding: 0;
+}
+a{
+  text-decoration: none;
+  padding: .5rem;
+}
+a:hover{
+  background-color: black;
+  color: #fff;
+}
